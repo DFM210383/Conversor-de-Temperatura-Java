@@ -19,7 +19,3 @@ O programa realiza a conversão de **Celsius para Fahrenheit** e **Fahrenheit pa
 - **Java JDK 17** ou superior  
 - **IDE**: Visual Studio Code, Eclipse ou IntelliJ IDEA  
 - **Console** para execução do programa
-
-
-
-}

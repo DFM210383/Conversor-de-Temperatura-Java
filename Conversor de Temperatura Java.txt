@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String[] args) {
+        // Temperatura em Celsius
+        double celsius = 30.0;
+
+        // Conversão Celsius → Fahrenheit
+        double fahrenheit = (celsius * 9 / 5) + 32;
+
+        // Conversão Fahrenheit → Celsius
+        double fahrenheit2 = 86.0;
+        double celsius2 = (fahrenheit2 - 32) * 5 / 9;
+
+        // Exibir resultados
+        System.out.println(celsius + "°C equivalem a " + fahrenheit + "°F");
+        System.out.println(fahrenheit2 + "°F equivalem a " + celsius2 + "°C");
+    }
+}
